@@ -2,8 +2,8 @@
 name: Issue report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug, documentation, good first issue
+assignees: jayp193
 
 ---
 
@@ -12,10 +12,10 @@ A clear and concise description of what the issue is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Select this '...'
+2. Run this '....'
+3. Check this '....'
+4. See error or issue '....'
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.

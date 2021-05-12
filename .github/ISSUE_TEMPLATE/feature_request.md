@@ -2,13 +2,13 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: bug, documentation, duplicate, enhancement, good first issue
+assignees: jayp193
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A clear and concise description of what the problem is. Ex.I often run into [...] when [...] happens.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
