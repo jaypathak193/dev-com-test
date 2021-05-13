@@ -1,6 +1,7 @@
 <!--- Provide a general summary of your changes in the Title above -->
-Description
 
+
+Description
 <!--- Describe your changes in detail -->
 
 Motivation and Context
@@ -8,8 +9,8 @@ Motivation and Context
 
 
 All Submissions:
-* [ ] Have you followed the guidelines in our Contributing document?
-* [ ] Have you checked to ensure there aren't other open Pull Requests for the same update/change?
+* [] Have you followed the guidelines in our Contributing document?
+* [] Have you checked to ensure there aren't other open Pull Requests for the same update/change?
 
 <!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
