@@ -1,4 +1,5 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Provide a general summary of your changes in the Title above  -->
+<!--- Be sure to preview your pull request using the Preview tab, before creating the pull request -->
 
 
 Description
@@ -35,6 +36,7 @@ Does this PR introduce a breaking change? (What changes might users need to make
 
 Please check if the PR fulfills these requirements
 
+<!--- Signing Checkboxes -->
 * [ ] Signed the Developer Certificate of Origin
 * [ ] The commit message adheres to guidelines
 * [ ] Successfully ran tests with changes locally?
