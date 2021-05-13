@@ -5,8 +5,8 @@ If you're reading this, you're probably thinking about contributing to this repo
 This document provides guidelines on contributing to this repository. Please follow these guidelines when creating issues, making commits, and submitting pull requests. The repository maintainers review all pull requests and verify that they conform to these guidelines before approving and merging.
 
 #### Table Of Contents
-- [Code of Conduct](#code-of-coduct)
-- [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question!!!)
+- [Code of Conduct](#code-of-conduct)
+- [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
 - [How Can I Contribute?](#how-can-i-contribute)
   * [Contribution Ideas](#contribution-ideas)
   * [What should I know before I get started?](#what-should-i-know-before-i-get-started)
@@ -24,7 +24,7 @@ This document provides guidelines on contributing to this repository. Please fol
 ## Code Of Conduct
 This project and everyone participating in it is governed by the [Aruba Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to aruba-automation@hpe.com.
 
-## I don't want to read this whole thing I just have a question!!!
+## I Dont Want To Read This Whole Thing I Just Have A Question
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
