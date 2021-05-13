@@ -9,8 +9,8 @@ Motivation and Context
 
 
 All Submissions:
-* [x] Have you followed the guidelines in our Contributing document?
-* [] Have you checked to ensure there aren't other open Pull Requests for the same update/change?
+* [ x ] Have you followed the guidelines in our Contributing document?
+* [ ] Have you checked to ensure there aren't other open Pull Requests for the same update/change?
 
 <!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
