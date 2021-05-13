@@ -2,4 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Airheads Developer Community
     url: https://community.arubanetworks.com/community-home/digestviewer?communitykey=ea467413-8db4-4c49-b5f8-1a12f193e959&tab=digestviewer
-    about: Please ask and answer questions here.
+    about: Discussion group where developers gather to share solutions, ask and/or answer questions around Aruba Automation and extensiblity
+  - name: Aruba Developer Hub
+    url: https://developer.arubanetworks.com
+    about: Platform for developer content such as API refrences, Getting Started, Guides, Videos, etc. for various Aruba products 
