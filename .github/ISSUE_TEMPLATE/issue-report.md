@@ -1,11 +1,12 @@
 ---
 name: Issue report
 about: Create a report to help us improve
-title: ''
-labels: bug, documentation, good first issue
+title: "[BUG]"
+labels: bug, documentation, good first issue, invalid
 assignees: jayp193
 
 ---
+
 <!--- Provide a descriptive Title above  -->
 <!--- Be sure to preview your Issue report using the Preview tab, before submitting -->
 
