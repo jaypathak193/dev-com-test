@@ -31,6 +31,7 @@ assignees: jayp193
  - **Target Firmware** <!---[e.g. Central 2.5.3, AOS8.6, AOS-CX 10.6] -->
  - **OS** <!---[e.g. MacOS, Linux] -->
  - **Distro and Version**  <!--- [e.g. Ubuntu 18.04, CentOS 7] -->
+ - **Python/Ansible/Othe-tool Version**  <!--- [e.g. Python3.8, Ansible 2.10] -->
 
 ### Additional context
 <!--- Add any other context about the problem here. -->
