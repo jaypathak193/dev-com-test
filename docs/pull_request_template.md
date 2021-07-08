@@ -1,6 +1,5 @@
 <!--- Provide a general summary of your changes in the Title above  -->
-<!--- Be sure to preview your pull request using the Preview tab, before creating the pull request -->
-
+<!--- Be sure to preview your pull request using the Preview tab, before creating a pull request -->
 
 ## Description <!--- Describe your changes in detail -->
 
@@ -10,17 +9,19 @@
 
 ### Does this PR introduce a breaking change? <!--- What changes might users need to make in their application due to this PR? -->
 
+
+
+
 <!--- Go through the below checkboxes and mark all that applies -->
 <!--- Syntax to check a checkbox: [x] (no spaces) -->
+
 ### PR Submission Checklist:
 * [ ] Have you followed the guidelines in our Contributing document?
 * [ ] Have you signed the Developer Certificate of Origin as per the contributing guidelines
 * [ ] Have you checked to ensure there aren't other open Pull Requests for the same update/change?
 * [ ] Have you lint your code locally as per the guidelines prior to submission?
-* [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
-* [ ] Have you written new tests for your core changes, as applicable?
 * [ ] Have you successfully ran tests with your changes locally?
-* [ ] Have you added / updated repective documentation?
+* [ ] Have you added / updated documentation?
 
 
-### Other information:
+### Additional information:
